@@ -1,0 +1,10 @@
+C:\Users\H232112\Desktop\Clau\AdmitereMedicina\AdmitereMedicina\bin\Debug\AdmitereMedicina.exe.config
+C:\Users\H232112\Desktop\Clau\AdmitereMedicina\AdmitereMedicina\bin\Debug\AdmitereMedicina.exe
+C:\Users\H232112\Desktop\Clau\AdmitereMedicina\AdmitereMedicina\bin\Debug\AdmitereMedicina.pdb
+C:\Users\H232112\Desktop\Clau\AdmitereMedicina\AdmitereMedicina\obj\Debug\AdmitereMedicina.csprojAssemblyReference.cache
+C:\Users\H232112\Desktop\Clau\AdmitereMedicina\AdmitereMedicina\obj\Debug\AdmitereMedicina.Properties.Resources.resources
+C:\Users\H232112\Desktop\Clau\AdmitereMedicina\AdmitereMedicina\obj\Debug\AdmitereMedicina.csproj.GenerateResource.cache
+C:\Users\H232112\Desktop\Clau\AdmitereMedicina\AdmitereMedicina\obj\Debug\AdmitereMedicina.csproj.CoreCompileInputs.cache
+C:\Users\H232112\Desktop\Clau\AdmitereMedicina\AdmitereMedicina\obj\Debug\AdmitereMedicina.exe
+C:\Users\H232112\Desktop\Clau\AdmitereMedicina\AdmitereMedicina\obj\Debug\AdmitereMedicina.pdb
+C:\Users\H232112\Desktop\Clau\AdmitereMedicina\AdmitereMedicina\obj\Debug\AdmitereMedicina.Form1.resources

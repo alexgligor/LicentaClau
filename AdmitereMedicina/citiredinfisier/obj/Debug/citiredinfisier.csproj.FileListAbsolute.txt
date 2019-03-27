@@ -1,0 +1,6 @@
+C:\Users\H232112\Desktop\Clau\AdmitereMedicina\citiredinfisier\bin\Debug\citiredinfisier.exe.config
+C:\Users\H232112\Desktop\Clau\AdmitereMedicina\citiredinfisier\bin\Debug\citiredinfisier.exe
+C:\Users\H232112\Desktop\Clau\AdmitereMedicina\citiredinfisier\bin\Debug\citiredinfisier.pdb
+C:\Users\H232112\Desktop\Clau\AdmitereMedicina\citiredinfisier\obj\Debug\citiredinfisier.csproj.CoreCompileInputs.cache
+C:\Users\H232112\Desktop\Clau\AdmitereMedicina\citiredinfisier\obj\Debug\citiredinfisier.exe
+C:\Users\H232112\Desktop\Clau\AdmitereMedicina\citiredinfisier\obj\Debug\citiredinfisier.pdb
